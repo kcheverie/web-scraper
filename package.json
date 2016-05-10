@@ -1,0 +1,23 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kcheverie/web-scraper.git"
+  },
+  "author": "kcheverie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcheverie/web-scraper/issues"
+  },
+  "homepage": "https://github.com/kcheverie/web-scraper",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
